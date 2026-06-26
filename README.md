@@ -1,2 +1,2 @@
 # Customer-Churn-Analysis-System
-This
+This Project primarily focuses on the real life use case which companies faces with their customers. Big companies in the market are currently competing with each other to acquire more customers than others, but in this race companies also wants to focus on the churn rate of their customers so that they can take suitable measures to retain their customers. My system here deals with this situation perfectly. I have use IBM telco dataset from kaggle to train series of machine learning algorithms that can predict the results fluently. I have performed data cleaning, visualization, EDA and training and testing of data. Finally, I have discussed which model performs well and predicts best results on this dataset.
